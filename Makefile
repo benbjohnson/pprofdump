@@ -20,3 +20,6 @@ build-windows:
 	@GOOS=windows GOARCH=amd64 go build -o bin/windows-amd64/pprofdump.exe .
 	@gzip -f bin/windows-amd64/pprofdump.exe
 	@mv bin/windows-amd64/pprofdump.exe.gz bin/pprofdump-windows-amd64.exe.gz
+
+clean:
+	@rm -rf bin
