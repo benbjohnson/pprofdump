@@ -8,9 +8,11 @@ tar file.
 
 ### Getting started
 
-You can download prebuilt binaries of `pprofdump` from the GitHub releases
-page. Make sure to choose the correct binary based on your operating system
+You can download prebuilt binaries of `pprofdump` from the [GitHub release
+page][release]. Make sure to choose the correct binary based on your operating system
 and system architecture.
+
+[release]: https://github.com/benbjohnson/pprofdump/releases
 
 
 ### Usage
