@@ -8,12 +8,13 @@ tar file.
 
 ### Getting started
 
-You can download prebuilt binaries of `pprofdump` from the [GitHub release
-page][release]. Make sure to choose the correct binary based on your operating system
-and system architecture.
+Download the latest prebuilt binaries of `pprofdump` for your operating system:
 
-[release]: https://github.com/benbjohnson/pprofdump/releases
+* [Mac OS X](https://github.com/benbjohnson/pprofdump/releases/download/v0.1.0/pprofdump-darwin-amd64.gz)
+* [Linux](https://github.com/benbjohnson/pprofdump/releases/download/v0.1.0/pprofdump-linux-amd64.gz)
+* [Windows](https://github.com/benbjohnson/pprofdump/releases/download/v0.1.0/pprofdump-windows-amd64.exe.gz)
 
+Then run `gunzip` to decompress the binary.
 
 ### Usage
 
