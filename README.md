@@ -14,7 +14,6 @@ Download the latest prebuilt binaries of `pprofdump` for your operating system:
 * [Linux](https://github.com/benbjohnson/pprofdump/releases/download/v0.1.0/pprofdump-linux-amd64.gz)
 * [Windows](https://github.com/benbjohnson/pprofdump/releases/download/v0.1.0/pprofdump-windows-amd64.exe.gz)
 
-Then run `gunzip` to decompress the binary.
 
 ### Usage
 
